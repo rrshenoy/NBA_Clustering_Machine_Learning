@@ -1,4 +1,4 @@
-# NBA Player Clustering
+# NBA Player Clustering and Game Win Prediction
 
 Given statistics for players and game history, roster per team, etc. for a game between two teams A and B this season, predict the outcome of the game.
 
